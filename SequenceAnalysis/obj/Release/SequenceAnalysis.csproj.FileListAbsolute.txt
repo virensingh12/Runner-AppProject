@@ -1,0 +1,8 @@
+c:\Users\sivirend\documents\visual studio 2015\Projects\Runner\SequenceAnalyser\bin\Release\SequenceAnalyser.dll
+c:\Users\sivirend\documents\visual studio 2015\Projects\Runner\SequenceAnalyser\bin\Release\SequenceAnalyser.pdb
+c:\Users\sivirend\documents\visual studio 2015\Projects\Runner\SequenceAnalyser\obj\Release\SequenceAnalyser.dll
+c:\Users\sivirend\documents\visual studio 2015\Projects\Runner\SequenceAnalyser\obj\Release\SequenceAnalyser.pdb
+C:\Users\sivirend\Documents\Visual Studio 2015\Projects\Runner\Runner\bin\Release\SequenceAnalysis.dll
+C:\Users\sivirend\Documents\Visual Studio 2015\Projects\Runner\Runner\bin\Release\SequenceAnalysis.pdb
+C:\Users\sivirend\Documents\Visual Studio 2015\Projects\Runner\SequenceAnalysis\obj\Release\SequenceAnalysis.dll
+C:\Users\sivirend\Documents\Visual Studio 2015\Projects\Runner\SequenceAnalysis\obj\Release\SequenceAnalysis.pdb

@@ -1,0 +1,4 @@
+c:\Users\sivirend\documents\visual studio 2015\Projects\Runner\Runner\bin\Release\SumOfMultiple.dll
+c:\Users\sivirend\documents\visual studio 2015\Projects\Runner\Runner\bin\Release\SumOfMultiple.pdb
+c:\Users\sivirend\documents\visual studio 2015\Projects\Runner\SumOfMultiple\obj\Release\SumOfMultiple.dll
+c:\Users\sivirend\documents\visual studio 2015\Projects\Runner\SumOfMultiple\obj\Release\SumOfMultiple.pdb

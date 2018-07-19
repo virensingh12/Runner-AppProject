@@ -1,0 +1,4 @@
+c:\Users\sivirend\documents\visual studio 2015\Projects\Runner\Runner\bin\Release\SequenceAnalyser.dll
+c:\Users\sivirend\documents\visual studio 2015\Projects\Runner\Runner\bin\Release\SequenceAnalyser.pdb
+c:\Users\sivirend\documents\visual studio 2015\Projects\Runner\SequenceAnalyser\obj\Release\SequenceAnalyser.dll
+c:\Users\sivirend\documents\visual studio 2015\Projects\Runner\SequenceAnalyser\obj\Release\SequenceAnalyser.pdb

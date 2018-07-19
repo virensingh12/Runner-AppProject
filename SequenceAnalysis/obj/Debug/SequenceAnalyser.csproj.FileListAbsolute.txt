@@ -1,0 +1,5 @@
+c:\Users\sivirend\documents\visual studio 2015\Projects\Runner\Runner\bin\Debug\SequenceAnalyser.dll
+c:\Users\sivirend\documents\visual studio 2015\Projects\Runner\Runner\bin\Debug\SequenceAnalyser.pdb
+c:\Users\sivirend\documents\visual studio 2015\Projects\Runner\SequenceAnalyser\obj\Debug\SequenceAnalyser.dll
+c:\Users\sivirend\documents\visual studio 2015\Projects\Runner\SequenceAnalyser\obj\Debug\SequenceAnalyser.pdb
+C:\Users\sivirend\documents\visual studio 2015\Projects\Runner\SequenceAnalyser\obj\Debug\SequenceAnalyser.csprojResolveAssemblyReference.cache

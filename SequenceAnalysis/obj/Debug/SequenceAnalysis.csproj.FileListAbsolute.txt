@@ -1,0 +1,9 @@
+c:\Users\sivirend\documents\visual studio 2015\Projects\Runner\SequenceAnalyser\bin\Debug\SequenceAnalyser.dll
+c:\Users\sivirend\documents\visual studio 2015\Projects\Runner\SequenceAnalyser\bin\Debug\SequenceAnalyser.pdb
+C:\Users\sivirend\documents\visual studio 2015\Projects\Runner\SequenceAnalyser\obj\Debug\SequenceAnalyser.dll
+C:\Users\sivirend\documents\visual studio 2015\Projects\Runner\SequenceAnalyser\obj\Debug\SequenceAnalyser.pdb
+C:\Users\sivirend\Documents\visual studio 2015\Projects\Runner\Runner\bin\Debug\SequenceAnalysis.dll
+C:\Users\sivirend\Documents\visual studio 2015\Projects\Runner\Runner\bin\Debug\SequenceAnalysis.pdb
+C:\Users\sivirend\Documents\visual studio 2015\Projects\Runner\SequenceAnalysis\obj\Debug\SequenceAnalysis.dll
+C:\Users\sivirend\Documents\visual studio 2015\Projects\Runner\SequenceAnalysis\obj\Debug\SequenceAnalysis.pdb
+C:\Users\sivirend\Documents\Visual Studio 2015\Projects\Runner\SequenceAnalysis\obj\Debug\SequenceAnalysis.csprojResolveAssemblyReference.cache
